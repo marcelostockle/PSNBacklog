@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "592534739531",
+    "project_id": "laughingstockman-psn",
+    "storage_bucket": "laughingstockman-psn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592534739531:android:f79b9daca861a3e1f48bce",
+        "android_client_info": {
+          "package_name": "com.mycompany.laughingstockmanpsn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcDi_ebQFaxgNccqv3BYzbnumH6IzOHJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

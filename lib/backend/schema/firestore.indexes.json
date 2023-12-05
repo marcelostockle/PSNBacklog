@@ -1,0 +1,50 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "Entry",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "Abandoned",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Wishlist",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Tags",
+          "arrayConfig": "CONTAINS"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Entry",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "Abandoned",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Tags",
+          "arrayConfig": "CONTAINS"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Entry",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "Wishlist",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Tags",
+          "arrayConfig": "CONTAINS"
+        }
+      ]
+    }
+  ]
+}
